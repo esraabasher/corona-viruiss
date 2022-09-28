@@ -1,0 +1,425 @@
+/*start main rules*/
+body
+{
+    margin: 0;
+    padding: 0;
+   
+}
+.container{
+	width:1180px;
+	margin:auto;
+}
+	.clear_fix{
+ clear:both}
+	/*end main rules*/
+	/* start navbar */
+	.navbar{
+	width:100%;
+     position:fixed;
+     background-color:#2db92d;
+    color:#fff;
+      border-radius: 0 0 100px 100px ;	 
+		
+}
+	.navbar .image  {
+		float:left;
+		padding-top:20px;
+		margin-left:-20px ;
+		font-size:27px;
+		font-weight:bold;
+		font-family:Jokerman;
+		}
+		.navbar .icon{
+			list-style:none;
+			float:right
+		}
+		.navbar .icon li{
+		float:left;
+		padding:10px
+		}
+		.navbar .icon li a {
+			 color:#fff;
+		text-decoration:none;
+	font-family:Comic Sans MS ;
+	font-size:15;
+	font-weight:bold;
+		
+		}
+		
+			.navbar .icon li a:hover{
+			color:#fff;
+			background-color:#98e698  ;
+            border-radius:6px;
+			border:10px solid #98e698 ;
+			}
+			/*end navbar*/
+			/* start slider */
+			.slider{
+	height:760px;
+	width:1518px;
+	background-image:url(../img/coronavirus-covid-19-placeholder-2.jpg);
+	background-size:cover;
+	}
+	.slider .stay  h1{
+		padding-top:350px;
+		float:left;
+		color:#fff;
+		font-family:Comic Sans MS;
+		font-size:60px;
+		margin-left:100px
+		}
+		/* end slider */
+		/* start section one */
+		.corona {
+			margin-left:150px;
+			padding-top:12;
+			}
+		.corona .words h1{
+			color : #00cc00;
+			font-family:Comic Sans MS;
+			
+			
+		}
+		.corona .words span{
+			color : #000000;
+			font-family:Comic Sans MS;
+			
+			
+		}
+		.corona .words p{
+	color:#595959;
+  font-family:Comic Sans MS;
+   font-size:21px
+	}
+	.video div{
+		margin-left: 120px;
+		   }
+		   .video div  video
+		   {
+			border:4px solid #00cc00;
+	   box-shadow:13px 15px 15px  #80ff80 ;
+	   border-radius:22px 22px 22px ; 
+			}
+			/* end  section one */
+			/* start section two */
+			.space{
+	height:50px;
+	}
+	.method .ss  {
+			margin-left:80px;
+			padding-top:12;
+			}
+		.method .ss h1{
+			color : #00cc00;
+			font-family:Comic Sans MS;
+			
+			
+		}
+		.method .ss  span{
+			color : #000000;
+			font-family:Comic Sans MS;
+			}
+			
+			.write{
+     background-color: #adebad; 
+      width:95%;
+      border:3px solid#00cc00;
+      box-shadow:20px 20px 20px  #80ff80;
+      border-radius:10px 10px 10px ;
+	  height:60%;
+	  margin-left:20px;
+	   }
+	   .write .you {
+		float: right;
+      padding-top:50px;
+     margin-left:70px;
+     line-height:30px;
+     font-size:20px;
+     font-family:Comic Sans MS;
+      color:#595959;   
+	     }
+		   .write .you span{
+	color: #00cc00;
+	padding:10px;
+	font-size:25px;
+	font-weight:bold;
+	}
+	.abdo .esraa{
+overflow:hidden;
+ 
+	
+}
+	.abdo .esraa .syed img{
+		padding:3px;
+		float:left;
+	margin-left:20px;
+	     width:170px;
+		 margin-top:3px;
+        background-color:#00cc00;
+	   border:1px solid#00cc00;
+	   box-shadow:10px 10px 10px #80ff80
+	}
+			.abdo .esraa .soso img{
+	
+	   margin:30px;
+	   padding:3px;
+	   background-color:#00cc00;
+	   border:1px solid#00cc00;
+	   box-shadow:10px 10px 10px #80ff80 
+	}
+	.shoso .aya{
+overflow:hidden;
+ 
+	
+}
+	.shoso .aya .fat img{
+		padding:3px;
+		float:left;
+	margin-left:20px;
+	     width:170px;
+		 margin-top:3px;
+        background-color:#00cc00;
+	   border:1px solid#00cc00;
+	   box-shadow:10px 10px 10px #80ff80
+	}
+			.shoso .aya .bad img{
+	
+	   margin:30px;
+	   padding:3px;
+	   background-color:#00cc00;
+	   border:1px solid#00cc00;
+	   box-shadow:10px 10px 10px #80ff80 
+	}
+	.spacee {
+		height:50px;
+	}
+		/* end section two */
+		
+		/* start section three */
+		.preved  .of {
+			margin-left : 80px;
+			padding-top:12;
+			}
+		.preved .of h1{
+			color : #00cc00;
+			font-family:Comic Sans MS;
+			
+			
+		}
+		.preved .of span{
+			color : #000000;
+			font-family:Comic Sans MS;
+			}
+			
+			.basher{
+     background-color: #adebad; 
+      width:95%;
+      border:3px solid#00cc00;
+      box-shadow:20px 20px 20px  #80ff80;
+      border-radius:10px 10px 10px ;
+	  height:60%;
+	  margin-left:20px;
+	   }
+	   .basher .my  {
+		float: right;
+      padding-top:50px;
+     margin-left:70px;
+     line-height:30px;
+     font-size:15px;
+     font-family:Comic Sans MS;
+      color:#595959;   
+	     }
+		   .basher .my  span{
+	color: #00cc00;
+	padding:10px;
+	font-size:25px;
+	font-weight:bold;
+	}
+	.amal .salma {
+overflow:hidden;
+ 
+	
+}
+	.amal .salma .hoor img{
+		padding:3px;
+		float:left;
+	margin-left:20px;
+	     width:170px;
+		 margin-top:3px;
+        background-color:#00cc00;
+	   border:1px solid#00cc00;
+	   box-shadow:10px 10px 10px #80ff80
+	}
+			.amal .salma .rah img{
+	
+	   margin:30px;
+	   padding:3px;
+	   background-color:#00cc00;
+	   border:1px solid#00cc00;
+	   box-shadow:10px 10px 10px #80ff80 
+	}
+	.con .good {
+overflow:hidden;
+ 
+	
+}
+	.con .good  .thin  img{
+		padding:3px;
+		float:left;
+	margin-left:20px;
+	     width:170px;
+		 margin-top:3px;
+        background-color:#00cc00;
+	   border:1px solid#00cc00;
+	   box-shadow:10px 10px 10px #80ff80
+	}
+			.con .good  .prefect img{
+	
+	   margin:30px;
+	   padding:3px;
+	   background-color:#00cc00;
+	   border:1px solid#00cc00;
+	   box-shadow:10px 10px 10px #80ff80 
+	}
+	/* end section three */
+	/* start section four */
+	.spaces {
+		height: 50px;
+		}
+		.treat .threat  {
+			margin-left:80px;
+			padding-top:12;
+			}
+        .treat .threat h1{
+			color : #00cc00;
+			font-family:Comic Sans MS;
+			
+			
+		}
+		.treat .threat  span{
+			color : #000000;
+			font-family:Comic Sans MS;
+			}
+		.masl{
+		
+	background-color: #adebad;
+	border:3px solid#00cc00;
+	border-radius:30px 30px 30px ;
+	box-shadow:10px 10px 10px #80ff80 
+	
+	}
+	
+	
+.masl div {
+	float:center;
+	height:300px;
+	width:700px;
+	margin-left:130px;
+	
+	
+	
+	}	
+
+	.masl p{
+        font-family:Comic Sans MS;
+        font-size:20px;
+		
+		padding-top:60px;
+		line-height:30px;
+		color:#595959;
+	}
+	/* end  section four */
+	/* start section five */
+.air{
+	height:50px;
+    }
+	.big{
+		height:500px;
+	background-image:url(../img/photo-1590341279033-60c7dcd15db0.jpg);
+	background-size:cover;
+		}	
+			
+			
+.big 	.conter	h4{
+text-align:center	;
+	font-family:Comic Sans MS;
+        font-size:22px;
+		padding-top:50px;
+		color:#fff
+	}	
+	.big 	.conter .form	{
+ padding-top:50px;
+ float:left;	
+ margin-left:250px ;
+ width:30%
+}
+	 .form input[type="text"]{
+	 width:190%;
+	font-family:Comic Sans MS;
+	background-color:#fff;
+	padding-top:10px;
+	border:none ;
+	margin-bottom:10px;
+	height:50px;
+	font-size:17px;
+	border-radius:40px 40px 40px 
+	
+	}
+	.form input[type="email"]{
+	 width:190%;
+	font-family:Comic Sans MS;
+	background-color:#fff;
+	padding-top:10px;
+	border:none ;
+	margin-bottom:10px;
+	height:50px;
+	font-size:17px;
+	border-radius:40px 40px 40px 
+	}
+	.form input[type="submit"]
+	{
+		margin-left:75%;
+		padding:7px;
+		width:40%;
+		font-size:15px;
+		font-weight:bold;
+		color:#fff  ;
+		text-transform:uppercase;
+		border:2px solid #00cc00;
+		border-radius:50px;
+		background-color:#00cc00
+	}
+	/* end  section five */
+	.end_footer{
+		background-color:#008000;/*#00b300;*/
+		padding:13px;
+		overflow:hidden
+	}
+	.end_footer p{
+		
+		text-align:center;
+		font-family:Comic Sans MS;
+		color:#fff
+	}
+	.end_footer p a{
+		text-decoration:none;
+		color:#fff
+		
+	}
+	.end_footer p a:hover{
+		color:#8cff1a
+		
+		
+	}
+			
+			
+		   
+			
+			
+			
+			
+			
+		
+		
+		
+	
